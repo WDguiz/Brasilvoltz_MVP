@@ -100,12 +100,6 @@ A aplicação será carregada localmente, permitindo visualizar:
 * Mapa inteligente;
 * Dashboard empresarial.
 
-### Observações
-
-Esta versão possui caráter exclusivamente demonstrativo e acadêmico.
-
-Nas próximas etapas do projeto, estão previstas integrações com banco de dados, APIs de geolocalização, autenticação de usuários e serviços em nuvem para tornar a plataforma totalmente funcional.
-
 ---
 
 ## 🌎 Filosofia Open Source
