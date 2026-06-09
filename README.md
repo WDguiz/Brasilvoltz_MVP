@@ -1,67 +1,10 @@
-# ⚡ BrazilVoltz 
-
-> Plataforma Open Source de gerenciamento inteligente de carregamento para veículos elétricos.
-
-## 📖 Sobre o Projeto
-
-O BrazilVoltz é uma plataforma digital desenvolvida para auxiliar usuários e empresas no gerenciamento eficiente de veículos elétricos.
-
-O sistema centraliza informações sobre consumo energético, custos de recarga, monitoramento de baterias e localização de eletropostos em uma única aplicação.
-
-O projeto foi desenvolvido com base nos princípios do Software Livre e Open Source, promovendo colaboração, transparência e inovação tecnológica.
-
----
-
-## 🎯 Problema que o Projeto Resolve
-
-Com o crescimento da adoção de veículos elétricos no Brasil, surgem desafios relacionados ao controle de gastos energéticos, monitoramento da bateria e localização de estações de carregamento.
-
-Atualmente, muitas dessas informações encontram-se distribuídas em diferentes aplicativos, dificultando a gestão dos dados pelos usuários.
-
-O BrazilVoltz busca integrar essas funcionalidades em uma única plataforma acessível e eficiente.
-
----
-
-## 🚀 Funcionalidades do MVP
-
-### Recursos Gratuitos
-
-* Monitoramento do nível da bateria;
-* Histórico de consumo energético;
-* Calculo automatico dos custos de recarga;
-* Alertas de carregamento;
-* Localizacao de eletropostos.
-
-### Recursos Premium
-
-* Relatorios avancados;
-* Diagnostico da saude da bateria;
-* Previsao de gastos futuros;
-* Mapa inteligente com informacoes em tempo real;
-* Dashboard empresarial;
-* Controle de frotas corporativas.
-
----
-
-## 🖥️ Telas Disponiveis no MVP
-
-* Home do aplicativo;
-* Monitoramento de bateria;
-* Relatorios de abastecimento;
-* Calculo inteligente de custos;
-* Recursos premium;
-* Mapa inteligente;
-* Dashboard empresarial.
-
----
-
-## 📦 Instalacao e Execucao
+## 📦 Instalação e Execução
 
 Atualmente, o BrazilVoltz encontra-se na fase de MVP (Minimum Viable Product), disponibilizado como um protótipo demonstrativo desenvolvido em HTML e CSS.
 
 ### Requisitos
 
-Para executar esta versao do sistema, e necessario apenas:
+Para executar esta versão do sistema, é necessário apenas:
 
 * Navegador moderno (Google Chrome, Mozilla Firefox, Microsoft Edge ou Opera);
 * Arquivos do projeto baixados localmente.
@@ -78,14 +21,6 @@ git clone https://github.com/WDguiz/Brasilvoltz_MVP.git
 
 Após o download, localize a pasta do projeto em seu computador.
 
-Estrutura esperada:
-
-```text
-Brasilvoltz_MVP/
-├── index.html
-└── README.md
-```
-
 ### Passo 3 – Executar o MVP
 
 Abra o arquivo `index.html` em seu navegador.
@@ -99,6 +34,69 @@ A aplicação será carregada localmente, permitindo visualizar:
 * Recursos premium;
 * Mapa inteligente;
 * Dashboard empresarial.
+
+---
+
+## 📁 Estrutura do Projeto
+
+```text
+Brasilvoltz_MVP/
+│
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── index.html
+│
+├── assets/
+│   └── screenshots/
+│
+└── docs/
+```
+
+### Arquivos Principais
+
+| Arquivo         | Descrição                         |
+| --------------- | --------------------------------- |
+| README.md       | Documentação principal do projeto |
+| LICENSE         | Licença GNU AGPLv3                |
+| CONTRIBUTING.md | Guia para colaboradores           |
+| index.html      | MVP demonstrativo do sistema      |
+
+---
+
+## 🤝 Contribuição
+
+Contribuições da comunidade são bem-vindas.
+
+Consulte o arquivo **CONTRIBUTING.md** para obter orientações sobre como reportar problemas, sugerir melhorias e participar do desenvolvimento do projeto.
+
+---
+
+## 🔒 Licença
+
+Este projeto utiliza a licença **GNU Affero General Public License v3.0 (AGPLv3)**.
+
+Para mais informações consulte o arquivo **LICENSE**.
+
+---
+
+## 🌎 Filosofia Open Source
+
+O BrazilVoltz segue os princípios do Software Livre e Open Source, incentivando:
+
+* Transparência;
+* Compartilhamento de conhecimento;
+* Desenvolvimento colaborativo;
+* Sustentabilidade tecnológica;
+* Inovação orientada pela comunidade.
+
+---
+
+## 👥 Equipe
+
+Projeto acadêmico desenvolvido para a disciplina de Software Livre e Open Source.
+
+**BrazilVoltz © 2026**
 
 ---
 
