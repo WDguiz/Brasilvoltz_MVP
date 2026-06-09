@@ -47,9 +47,6 @@ Brasilvoltz_MVP/
 ├── CONTRIBUTING.md
 ├── index.html
 │
-├
-│
-└─
 ```
 
 ### Arquivos Principais
