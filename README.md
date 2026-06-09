@@ -47,10 +47,9 @@ Brasilvoltz_MVP/
 ├── CONTRIBUTING.md
 ├── index.html
 │
-├── assets/
-│   └── screenshots/
+├
 │
-└── docs/
+└─
 ```
 
 ### Arquivos Principais
