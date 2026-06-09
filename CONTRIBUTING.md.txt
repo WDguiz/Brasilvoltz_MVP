@@ -1,0 +1,94 @@
+# BrazilVoltz
+
+## Sustentabilidade de um Projeto Open Source
+
+### 1. Introdução
+
+A BrazilVoltz é um projeto baseado nos princípios do software livre e do código aberto. Com o crescimento da computação em nuvem, muitos softwares open source passaram a enfrentar desafios relacionados ao uso de seus sistemas por grandes empresas de tecnologia.
+
+O objetivo desta etapa é apresentar os riscos que a BrazilVoltz pode enfrentar no mercado e mostrar as estratégias escolhidas pelo grupo para manter o projeto sustentável, seguro e competitivo.
+
+---
+
+### 2. Cenário de Risco
+
+Caso a BrazilVoltz se torne um software muito popular, grandes empresas de nuvem, como AWS, Google Cloud ou Microsoft Azure, poderão utilizar o código do projeto para criar serviços próprios em suas plataformas.
+
+Isso significa que essas empresas poderiam lucrar oferecendo o sistema hospedado na nuvem, mesmo sem participar diretamente do desenvolvimento do projeto.
+
+Situações parecidas já aconteceram com outros softwares open source conhecidos, onde grandes empresas passaram a oferecer serviços baseados em projetos criados por comunidades independentes.
+
+Embora contribua para a disseminação da plataforma, esse cenário pode reduzir as oportunidades de monetização do projeto original.
+
+---
+
+### 3. Estratégia Escolhida
+
+A estratégia escolhida pela BrazilVoltz será a Opção B, focando na qualidade da plataforma oficial oferecida pelo grupo.
+
+Mesmo com o código aberto, a equipe disponibilizará um serviço próprio mais completo, seguro e otimizado para os usuários.
+
+#### Diferenciais da plataforma oficial
+
+* Atualizações automáticas;
+* Melhor desempenho;
+* Backup automático;
+* Suporte técnico;
+* Recursos extras de segurança;
+* Interface simples e organizada.
+
+Dessa forma, muitos usuários irão preferir utilizar a versão oficial da BrazilVoltz pela praticidade, confiança e qualidade do serviço oferecido.
+
+---
+
+### 4. Relação com a Licença AGPLv3
+
+A BrazilVoltz utiliza a licença AGPLv3, que ajuda a proteger o projeto contra o uso indevido por grandes empresas.
+
+Essa licença exige que organizações que modifiquem o software e o disponibilizem como serviço online compartilhem as alterações realizadas no código-fonte.
+
+Com isso, a BrazilVoltz mantém a proposta de colaboração aberta, ao mesmo tempo em que reduz o risco de exploração sem contribuição para a comunidade.
+
+---
+
+### 5. Sustentabilidade do Projeto
+
+Para garantir o crescimento da BrazilVoltz no longo prazo, o grupo pretende investir na comunidade, no suporte aos usuários e na melhoria contínua da plataforma.
+
+Além do software open source, o projeto poderá gerar receita através de:
+
+* Hospedagem oficial da plataforma;
+* Suporte técnico especializado;
+* Recursos premium;
+* Serviços corporativos;
+* Atualizações avançadas;
+* Treinamentos;
+* Consultorias especializadas.
+
+Esse modelo permite que a BrazilVoltz continue aberta para a comunidade, mas também consiga se manter financeiramente de forma sustentável.
+
+---
+
+### 5.1 Comunidade e Modelo Bazar
+
+A BrazilVoltz seguirá princípios do chamado modelo bazar, amplamente utilizado em projetos open source de sucesso.
+
+Nesse modelo, o desenvolvimento acontece de forma colaborativa, permitindo que diferentes desenvolvedores contribuam com melhorias, correções e novas funcionalidades.
+
+Para garantir organização e qualidade, serão adotadas regras claras de participação:
+
+* Padrões para envio de contribuições;
+* Revisão de código antes da aprovação;
+* Documentação acessível para colaboradores;
+* Diretrizes de comportamento e respeito entre os membros;
+* Transparência nas decisões do projeto.
+
+Com isso, a comunidade poderá participar de forma aberta e colaborativa sem comprometer a segurança, estabilidade e qualidade da plataforma.
+
+---
+
+### 6. Conclusão
+
+A combinação da licença AGPLv3 com uma plataforma oficial própria permite que a BrazilVoltz continue seguindo os princípios do open source sem deixar de proteger o projeto no mercado atual.
+
+Com foco em qualidade, suporte e inovação, a BrazilVoltz busca crescer de forma colaborativa, sustentável e preparada para os desafios da computação em nuvem.
