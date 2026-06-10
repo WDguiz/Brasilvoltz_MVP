@@ -1,3 +1,60 @@
+# ⚡ BrazilVoltz
+
+> Plataforma Open Source de gerenciamento inteligente de carregamento para veículos elétricos.
+
+## 📖 Sobre o Projeto
+
+O BrazilVoltz é uma plataforma digital desenvolvida para auxiliar usuários e empresas no gerenciamento eficiente de veículos elétricos.
+
+O sistema centraliza informações sobre consumo energético, custos de recarga, monitoramento de baterias e localização de eletropostos em uma única aplicação.
+
+O projeto foi desenvolvido com base nos princípios do Software Livre e Open Source, promovendo colaboração, transparência e inovação tecnológica.
+
+---
+
+## 🎯 Problema que o Projeto Resolve
+
+Com o crescimento da adoção de veículos elétricos no Brasil, surgem desafios relacionados ao controle de gastos energéticos, monitoramento da bateria e localização de estações de carregamento.
+
+Atualmente, muitas dessas informações encontram-se distribuídas em diferentes aplicativos, dificultando a gestão dos dados pelos usuários.
+
+O BrazilVoltz busca integrar essas funcionalidades em uma única plataforma acessível e eficiente.
+
+---
+
+## 🚀 Funcionalidades do MVP
+
+### Recursos Gratuitos
+
+* Monitoramento do nível da bateria;
+* Histórico de consumo energético;
+* Cálculo automático dos custos de recarga;
+* Alertas de carregamento;
+* Localização de eletropostos.
+
+### Recursos Premium
+
+* Relatórios avançados;
+* Diagnóstico da saúde da bateria;
+* Previsão de gastos futuros;
+* Mapa inteligente com informações em tempo real;
+* Dashboard empresarial;
+* Controle de frotas corporativas.
+
+---
+
+## 🖥️ Telas Disponíveis no MVP
+
+* Home do aplicativo;
+* Monitoramento de bateria;
+* Relatórios de abastecimento;
+* Cálculo inteligente de custos;
+* Recursos premium;
+* Mapa inteligente;
+* Dashboard empresarial.
+
+---
+
 ## 📦 Instalação e Execução
 
 Atualmente, o BrazilVoltz encontra-se na fase de MVP (Minimum Viable Product), disponibilizado como um protótipo demonstrativo desenvolvido em HTML e CSS.
