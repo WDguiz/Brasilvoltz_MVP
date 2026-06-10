@@ -40,7 +40,7 @@ A aplicação será carregada localmente, permitindo visualizar:
 ## 📁 Estrutura do Projeto
 
 ```text
-Brasilvoltz_MVP/
+BrazilVoltz/
 │
 ├── README.md
 ├── LICENSE
@@ -50,12 +50,12 @@ Brasilvoltz_MVP/
 
 ### Arquivos Principais
 
-| Arquivo         | Descrição                         |
-| --------------- | --------------------------------- |
-| README.md       | Documentação principal do projeto |
-| LICENSE         | Licença GNU AGPLv3                |
-| CONTRIBUTING.md | Guia para colaboradores           |
-| index.html      | MVP demonstrativo do sistema      |
+| Arquivo         | Descrição                                               |
+| --------------- | ------------------------------------------------------- |
+| README.md       | Documentação principal do projeto                       |
+| LICENSE         | Licença GNU Affero General Public License v3.0 (AGPLv3) |
+| CONTRIBUTING.md | Guia para contribuições da comunidade                   |
+| index.html      | MVP demonstrativo do sistema                            |
 
 ---
 
@@ -71,6 +71,8 @@ Consulte o arquivo **CONTRIBUTING.md** para obter orientações sobre como repor
 
 Este projeto utiliza a licença **GNU Affero General Public License v3.0 (AGPLv3)**.
 
+A escolha da AGPLv3 garante que melhorias realizadas por terceiros permaneçam disponíveis para a comunidade, mesmo quando o software for utilizado por meio de serviços online.
+
 Para mais informações consulte o arquivo **LICENSE**.
 
 ---
@@ -84,6 +86,8 @@ O BrazilVoltz segue os princípios do Software Livre e Open Source, incentivando
 * Desenvolvimento colaborativo;
 * Sustentabilidade tecnológica;
 * Inovação orientada pela comunidade.
+
+O projeto adota uma abordagem inspirada no Modelo Bazar, permitindo que colaboradores participem ativamente da evolução da plataforma.
 
 ---
 
