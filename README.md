@@ -1,7 +1,3 @@
-# ⚡ BrazilVoltz
-
-> Plataforma Open Source de gerenciamento inteligente de carregamento para veículos elétricos.
-
 ## 📖 Sobre o Projeto
 
 O BrazilVoltz é uma plataforma digital desenvolvida para auxiliar usuários e empresas no gerenciamento eficiente de veículos elétricos.
