@@ -46,7 +46,6 @@ Brasilvoltz_MVP/
 ├── LICENSE
 ├── CONTRIBUTING.md
 ├── index.html
-│
 ```
 
 ### Arquivos Principais
@@ -85,28 +84,6 @@ O BrazilVoltz segue os princípios do Software Livre e Open Source, incentivando
 * Desenvolvimento colaborativo;
 * Sustentabilidade tecnológica;
 * Inovação orientada pela comunidade.
-
----
-
-## 👥 Equipe
-
-Projeto acadêmico desenvolvido para a disciplina de Software Livre e Open Source.
-
-**BrazilVoltz © 2026**
-
----
-
-## 🌎 Filosofia Open Source
-
-A BrazilVoltz acredita que a inovação tecnológica deve ser construída de forma colaborativa.
-
-O projeto adota uma estratégia baseada em:
-
-* Transparência;
-* Compartilhamento de conhecimento;
-* Desenvolvimento comunitário;
-* Sustentabilidade tecnológica;
-* Evolução contínua.
 
 ---
 
